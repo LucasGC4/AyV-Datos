@@ -21,9 +21,3 @@ Análisis exhaustivo del Mundial de Fútbol 2026 (48 selecciones, 16 sedes y 104
 * **Bloque 4 (APIs y Enriquecimiento):** Extracción de datos biométricos y geolocalización de estadios mediante api-football y OpenStreetMap.
 
 ---
-
-## 🚀 Comandos Principales
-
-* **Clonar el repositorio (rama de desarrollo):**
-  ```bash
-  git clone -b dev [https://github.com/LucasGC4/AyV-Datos.git](https://github.com/LucasGC4/AyV-Datos.git)
