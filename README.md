@@ -6,8 +6,8 @@ Repositorio del proyecto colaborativo para la asignatura de Adquisición y Visua
 
 ## 👥 Integrantes
 * **Autores:**
+  * María Caballo Calderón
   * Lucas García Cucala
-  * *(Completar integrante/s)*
 
 ---
 
